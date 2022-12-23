@@ -5,8 +5,6 @@
 
 Este app é o clone da tela inicial do nubank em uma das primeiras versões do app.
 
-Esta é uma simples aplicação que consiste em uma pagina inicial e outra com os funkos que podem ser adiquiridos.
-
 ## Layout
 ![Mobile 1](https://github.com/henrique2003/clone-nubank/blob/main/assets/screen_1.png) ![Mobile 2](https://github.com/henrique2003/clone-nubank/blob/main/assets/screen_2.png)
 
