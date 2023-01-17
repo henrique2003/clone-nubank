@@ -25,7 +25,7 @@ Este app é o clone da tela inicial do nubank em uma das primeiras versões do a
 # clonar repositório
 git clone https://github.com/henrique2003/Squid-funkos.git
 
-# entrar na pasta do projeto front end web
+# entrar na pasta do projeto
 cd clone-nubanck
 
 # instalar dependências
